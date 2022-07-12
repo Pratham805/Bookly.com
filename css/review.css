@@ -1,0 +1,9 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-image: url("../../PBL IMG.jpeg");
+    background-size: 100%;
+    background-attachment: scroll;
+    text-emphasis-color: red;
+}
+
